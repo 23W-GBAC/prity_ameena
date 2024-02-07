@@ -8,7 +8,7 @@
 | Adedipe23 | https://23w-gbac.github.io/Adedipe23/ | ai involves creating computer systems that mimic human intelligence, performing tasks like learning and problem-solving. Through machine learning, these systems adapt and improve with experience. Applications range from virtual assistants to autonomous vehicles, shaping various industries and raising ethical considerations. |
 | enaJohn |  |  |
 | udehadaeze | https://23w-gbac.github.io/udehadaeze/ | Have you ever wondered what your Body Mass Index (BMI) says about you? If yes, simply use my BMI calculator to get  information specifically tailored to you. |
-| EzeLinda |  |  |
+| EzeLinda | https://github.com/23W-GBAC/RHYAN2 | Telehealth |
 | Odinaka |  |  |
 | Anukuga | https://23w-gbac.github.io/Anukuga/ | i have Choosen topics related to health which can be highly beneficial as Health is a universal concern that impacts everyone, regardless of age, gender, or background. Writing about health ensures relevance to a broad audience, contributing to knowledge about maintaining a healthy lifestyle and preventing diseases |
 | Oscarkyamuwendo | https://23w-gbac.github.io/Oscarkyamuwendo/ | I have come up with Uncommon facts in the world of  Artificial intelligence  |
