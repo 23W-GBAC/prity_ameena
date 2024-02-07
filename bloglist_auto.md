@@ -9,7 +9,7 @@
 | enaJohn |  |  |
 | udehadaeze | https://23w-gbac.github.io/udehadaeze/ | Have you ever wondered what your Body Mass Index (BMI) says about you? If yes, simply use my BMI calculator to get  information specifically tailored to you. |
 | EzeLinda |  |  |
-| Odinaka |  |  |
+| Odinaka | https://github.com/23W-GBAC/Odinaka |Embark on a journey to understand the fundamentals of prompt engineering and its significance in the healthcare domain. We'll explore how well-crafted prompts can influence the quality of responses from language models, highlighting the potential for improved information retrieval and decision support in healthcare.  |
 | Anukuga | https://23w-gbac.github.io/Anukuga/ | i have Choosen topics related to health which can be highly beneficial as Health is a universal concern that impacts everyone, regardless of age, gender, or background. Writing about health ensures relevance to a broad audience, contributing to knowledge about maintaining a healthy lifestyle and preventing diseases |
 | Oscarkyamuwendo | https://23w-gbac.github.io/Oscarkyamuwendo/ | I have come up with Uncommon facts in the world of  Artificial intelligence  |
 | safrinfaizz | https://23w-gbac.github.io/safrinfaizz/ | A recipe has no soul, as the cook, must bring soul to the recipe. In my blog, i'll be highlighting the diverse and flavouful world of indian cusine. Each state of india has it's own special language ,identity and delicious food. so, i would be  more engaged in to south indian foods. join me and share your favourite recipes. |
