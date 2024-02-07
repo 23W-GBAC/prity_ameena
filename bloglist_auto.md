@@ -6,7 +6,7 @@
 | MUTALE-GEORGE-Blog_post | https://23w-gbac.github.io/MUTALE-GEORGE-Blog_post/ | I am writing about my business idea specifically explaining how I came up with this great idea, the problems I faced, solutions provided and the goals I have to achieve my goal. |
 | kseniiavi |  |  |
 | Adedipe23 | https://23w-gbac.github.io/Adedipe23/ | ai involves creating computer systems that mimic human intelligence, performing tasks like learning and problem-solving. Through machine learning, these systems adapt and improve with experience. Applications range from virtual assistants to autonomous vehicles, shaping various industries and raising ethical considerations. |
-| enaJohn |  |  |
+| enaJohn |https://github.com/23W-GBAC/enaJohn  | As someone deeply entrenched in the worlds of fintech process optimization and health informatics, I've always been fascinated by the seamless integration of technology into complex systems to improve efficiency, enhance user experience, and streamline operations. Writing about "ChatGPT in Healthcare Administration" isn't just an exploration of a topic for me; it's a reflection of my professional and academic journey, bringing together my passion for technology, healthcare, and process improvement in a meaningful way. |
 | udehadaeze | https://23w-gbac.github.io/udehadaeze/ | Have you ever wondered what your Body Mass Index (BMI) says about you? If yes, simply use my BMI calculator to get  information specifically tailored to you. |
 | EzeLinda |  |  |
 | Odinaka |  |  |
